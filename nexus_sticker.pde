@@ -9,7 +9,7 @@ background(0, 0, 0);
 noStroke();
 
 //Top left shape
-fill(0, 0, 255);
+fill(0, 0, 255); //blue
 beginShape();
   vertex(10, 60);
   vertex(20, 50);
@@ -19,7 +19,7 @@ beginShape();
 endShape();
 
 //Top right shape
-fill(255, 0, 0);
+fill(255, 0, 0); //red
 beginShape();
   vertex(150, 50);
   vertex(160, 60);
@@ -29,7 +29,7 @@ beginShape();
 endShape();
 
 //Bottom left shape
-fill(255, 255, 0);
+fill(255, 255, 0); //yellow
 beginShape();
   vertex(10, 190);
   vertex(20, 200);
@@ -39,7 +39,7 @@ beginShape();
 endShape();
 
 //Bottom right shape
-fill(0, 255, 0);
+fill(0, 255, 0); //green
 beginShape();
   vertex(150, 200);
   vertex(160, 190);
