@@ -28,7 +28,7 @@ void draw()
   vertex(160, 60);
   vertex(100, 120);
   vertex(90, 120);
-  vertex(90, 110)
+  vertex(90, 110);
   endShape();
 
   //Bottom left shape
